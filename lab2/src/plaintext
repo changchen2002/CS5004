@@ -1,0 +1,21 @@
+The output of main method in Physics:
+
+13:04:29: Executing ':Physics.main()'…
+
+> Task :compileJava UP-TO-DATE
+> Task :processResources NO-SOURCE
+> Task :classes UP-TO-DATE
+
+> Task :Physics.main()
+The distance is 1.7320508075688772
+The average velocity is 0.34641016151377546
+
+BUILD SUCCESSFUL in 109ms
+2 actionable tasks: 1 executed, 1 up-to-date
+13:04:29: Execution finished ':Physics.main()'.
+
+
+As we can see, the distance calculated between two points is 1.7320508075688772.
+The variable type is double.
+
+The average velocity = distance / time = 0.34641016151377546. It's also a double.
